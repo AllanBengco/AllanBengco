@@ -12,7 +12,7 @@ Knowledgeable in full-stack web (MERN) development, game and mobile applications
 
 A creative and inventive individual who has proven track record in creating things that can profoundly affect people’s lives.
 
-(For more information, visit my personal page: https://allanbengco.herokuapp.com)
+(For more information, visit my personal page: https://allanbengco.com)
 
 <!---
 AllanBengco/AllanBengco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
