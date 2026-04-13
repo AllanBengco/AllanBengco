@@ -4,13 +4,14 @@ An Information Technology (IT) professional for over 30 years, with extensive ex
 
 Full-stack Web and Mobile Developer, knowledgeable in the following development stack:
 
-•	MERN (MongoDB, Express, React, Node JS)
-•	Next JS
-•	React Native/Expo
-•	Javascript/Typescript
-•	Tailwind/Nativewind
-•	AWS Amplify
-•	Unity and C#
+•	MERN (MongoDB, Express, React, Node JS)\
+•	Next JS\
+•	React Native/Expo\
+•	Javascript/Typescript\
+•	Tailwind/Nativewind\
+•	AWS Amplify\
+•	Unity and C#\
+•	AI Development\
 
 A creative and inventive individual who has proven track record in creating things that can profoundly affect people’s lives.
 
