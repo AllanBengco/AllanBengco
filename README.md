@@ -11,7 +11,7 @@ Full-stack Web and Mobile Developer, knowledgeable in the following development 
 •	Tailwind/Nativewind\
 •	AWS Amplify\
 •	Unity and C#\
-•	AI Development\
+•	AI Development
 
 A creative and inventive individual who has proven track record in creating things that can profoundly affect people’s lives.
 
